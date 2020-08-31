@@ -9,7 +9,8 @@ Makeover Monday W32 SVG - https://github.com/FedeBrg/infovis/blob/gh-pages/treem
 
 Makeover Monday W34 Flourish - https://fedebrg.github.io/infovis/mom34.html
 
-Makeover Monday W35 Charticulator->ScatterPlot - https://fedebrg.github.io/infovis/mom35ChSP.html
+Makeover Monday W35 Charticulator -> Scatter Plot - https://fedebrg.github.io/infovis/mom35ChSP.html
+Makeover Monday W35 Charticulator -> Two-axis Parallel-coordinates Plot - https://fedebrg.github.io/infovis/mom35TAPCP.html
 
 
 ## otros
