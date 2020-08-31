@@ -13,6 +13,8 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W35 Charticulator -> Two-axis Parallel-coordinates Plot](https://fedebrg.github.io/infovis/mom35TAPCP.html)
 
+[Makeover Monday W35 d3 -> Scatter Plot](https://fedebrg.github.io/infovis/mom35d3.html)
+
 
 ## otros
 
