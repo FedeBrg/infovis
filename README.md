@@ -18,6 +18,8 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W35 d3 -> Scatter Plot](https://fedebrg.github.io/infovis/mom35d3.html)
 
+[Timeline hecho en clase 07/09](https://fedebrg.github.io/infovis/timelineClase.html)
+
 
 ## otros
 
