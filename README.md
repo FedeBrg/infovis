@@ -20,6 +20,9 @@ Repo para Visualización de Información. 2020-2Q
 
 [Timeline hecho en clase 07/09](https://fedebrg.github.io/infovis/timelineClase.html)
 
+[Makeover Monday W36 Tableau](https://fedebrg.github.io/infovis/mom36.html)
+
+
 
 ## otros
 
