@@ -26,6 +26,7 @@ Repo para Visualización de Información. 2020-2Q
 
 [Quit while you are ahead - TP Datos Personales](https://fedebrg.github.io/infovis/QuitWhileYoureAhead.html)
 
+[Makeover Monday W38 Tableau](https://fedebrg.github.io/infovis/mom38.html)
 
 
 
