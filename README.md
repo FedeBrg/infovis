@@ -39,3 +39,6 @@ Repo para Visualización de Información. 2020-2Q
 
 [Timeline Arctic Monkeys](https://fedebrg.github.io/infovis/AMTimeline.html)
 
+[Spotify Data Viz - TP Datos Personales 2](https://fedebrg.github.io/infovis/spotify.html)
+
+
