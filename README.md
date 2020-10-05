@@ -43,4 +43,6 @@ Repo para Visualización de Información. 2020-2Q
 
 [Spotify Data Viz - TP Datos Personales 2](https://fedebrg.github.io/infovis/spotify.html)
 
+[Star Wars Screentime](https://fedebrg.github.io/infovis/starwars.html)
+
 
