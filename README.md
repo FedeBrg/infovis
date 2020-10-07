@@ -30,6 +30,9 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W39 Tableau](https://fedebrg.github.io/infovis/mom39.html)
 
+[Makeover Monday W40 Tableau](https://fedebrg.github.io/infovis/mom40.html)
+
+
 
 
 
