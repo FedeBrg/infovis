@@ -52,4 +52,6 @@ Repo para Visualización de Información. 2020-2Q
 
 [Star Wars Screentime](https://fedebrg.github.io/infovis/starwars.html)
 
+[Earthquakes!](https://observablehq.com/@fedebrg/earthquakes)
+
 
