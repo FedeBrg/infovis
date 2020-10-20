@@ -36,6 +36,8 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W40 ObservableHQ](https://observablehq.com/@fedebrg/gdp-by-county)
 
+[Makeover Monday W42 ObservableHQ](https://observablehq.com/@fedebrg/health-spendings)
+
 
 
 
