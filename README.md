@@ -38,8 +38,7 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W42 ObservableHQ](https://observablehq.com/@fedebrg/health-spendings)
 
-
-
+[Makeover Monday W43 ObservableHQ](https://observablehq.com/@fedebrg/apparel-exports-to-the-us)
 
 
 ## otros
