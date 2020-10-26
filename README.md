@@ -32,9 +32,9 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W40 Tableau](https://fedebrg.github.io/infovis/mom40.html)
 
-[Makeover Monday W41 Tableau](https://fedebrg.github.io/infovis/mom41.html)
-
 [Makeover Monday W40 ObservableHQ](https://observablehq.com/@fedebrg/gdp-by-county)
+
+[Makeover Monday W41 Tableau](https://fedebrg.github.io/infovis/mom41.html)
 
 [Makeover Monday W42 ObservableHQ](https://observablehq.com/@fedebrg/health-spendings)
 
