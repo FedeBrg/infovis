@@ -40,6 +40,7 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W43 ObservableHQ](https://observablehq.com/@fedebrg/apparel-exports-to-the-us)
 
+[Repo Ordenamiento de diarios](https://github.com/FedeBrg/GoogleTrends)
 
 ## otros
 
