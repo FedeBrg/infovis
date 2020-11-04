@@ -42,6 +42,9 @@ Repo para Visualización de Información. 2020-2Q
 
 [Repo Ordenamiento de diarios](https://github.com/FedeBrg/GoogleTrends)
 
+[Makeover Monday W44 Altair](https://colab.research.google.com/drive/1XwU17PJ2PKbfIEv07-cDc4-v38ay1n9d?usp=sharing)
+
+
 ## otros
 
 [Buenos Aires Weather 2019 Charticulator](https://fedebrg.github.io/infovis/BuenosAiresWeather.html)
