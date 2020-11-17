@@ -46,6 +46,8 @@ Repo para Visualización de Información. 2020-2Q
 
 [Makeover Monday W45 Altair](https://colab.research.google.com/drive/1OrYGGtjDGR8XU94JK7W6kPUVJMfIQOU-?usp=sharing)
 
+[Makeover Monday W46 ObservableHQ](https://observablehq.com/@fedebrg/makeover-monday-week-46)
+
 
 
 ## otros
